@@ -54,7 +54,7 @@ button:hover {
 
 h1 {
     position: relative;
-    left: 57px;
+    left: 132px;
     top: 98px;
     font-weight: 500;
     font-size: 83px;
@@ -63,7 +63,7 @@ h1 {
 
 .heroBanner p {
     position: relative;
-    left: 68px;
+    left: 132px;
     top: 139px;
     font-size: 28px;
     width: 590px;
@@ -78,13 +78,13 @@ h1 {
     color: white;
     position: relative;
     top: 170px;
-    left: 67px;
+    left: 132px;
     font-weight: bold;
 }
 
 .details {
     display: flex;
-    margin-left: 71px;
+    margin-left: 136px;
     margin-right: 350px;
     margin-top: 303px;
     justify-content: space-between;
